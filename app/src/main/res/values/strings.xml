@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Online Shoping</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ok">OK</string>
+    <string name="order_confirmation">Confirm</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string-array name="Size">
+        <item>M</item>
+        <item>XS</item>
+        <item>S</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+
+    </string-array>
+</resources>

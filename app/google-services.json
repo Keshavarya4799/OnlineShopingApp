@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376142499495",
+    "project_id": "online-shopping-app-2f8cc",
+    "storage_bucket": "online-shopping-app-2f8cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376142499495:android:7ca4dcdc5ce9951364d582",
+        "android_client_info": {
+          "package_name": "com.karya.onlineshoping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376142499495-spp5dr5r0r9llotnpo2fof9cppvb74ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCabknnxYbpp3jTd5SoUa07W7lePkjAg50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376142499495-spp5dr5r0r9llotnpo2fof9cppvb74ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

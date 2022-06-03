@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/homeFrag"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home">
+
+
+    </item>
+    <item
+        android:id="@+id/cartFrag"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Cart">
+
+    </item>
+
+<!--    <item-->
+<!--        android:id="@+id/wishlistFrag"-->
+<!--        android:title="WishList"-->
+<!--        android:icon="@drawable/wishlist"-->
+<!--      >-->
+
+<!--    </item>-->
+
+
+    <item
+        android:id="@+id/notificationFrag"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notification">
+
+    </item>
+    <item
+        android:id="@+id/userProfileFrag"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="User Profile">
+
+    </item>
+
+
+
+</menu>

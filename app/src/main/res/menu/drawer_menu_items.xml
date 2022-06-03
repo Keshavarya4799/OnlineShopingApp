@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <item
+        android:id="@+id/homeFrag"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home">
+
+
+    </item>
+    <item
+        android:id="@+id/cartFrag"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Cart">
+
+    </item>
+
+<!--    <item-->
+<!--        android:id="@+id/wishlistFrag"-->
+<!--        android:title="WishList"-->
+<!--        android:icon="@drawable/wishlist"-->
+<!--        >-->
+<!--    </item>-->
+
+    <item
+        android:id="@+id/notificationFrag"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Notification">
+
+    </item>
+    <item
+        android:id="@+id/userProfileFrag"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="User Profile">
+
+    </item>
+
+    <item
+        android:id="@+id/offerManagement"
+        android:title="Offer Management"
+        android:icon="@drawable/offer_dis_icon">
+
+    </item>
+
+    <item
+        android:id="@+id/orderManagementFrag"
+
+        android:title="Order Management">
+
+    </item>
+
+
+
+    <item
+        android:id="@+id/settingsFrag"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings">
+    </item>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/miRateUs"
+                android:icon="@drawable/ic_baseline_star_rate_24"
+                android:title="Rate Us"/>
+            <item
+                android:id="@+id/miShare"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share"/>
+
+        </menu>
+
+    </item>
+
+
+
+
+
+</menu>
