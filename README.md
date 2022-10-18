@@ -13,6 +13,8 @@ Register Page -
 Settings Page - 
 ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/59441111/196403992-175fdf03-6760-4b7d-994b-6811cd39adae.png)
 
+Profile page
+![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/59441111/196408269-d9daa78e-b189-4499-af21-e1f4414729c4.png)
 
 
 
