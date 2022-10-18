@@ -16,5 +16,7 @@ Settings Page -
 Profile page
 ![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/59441111/196408269-d9daa78e-b189-4499-af21-e1f4414729c4.png)
 
+Homepage
+![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/59441111/196425529-6b296167-c89c-4414-84c3-aa724d50594a.png)
 
 
